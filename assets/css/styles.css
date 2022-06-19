@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(99, 106, 202);
+    margin: 0px;
+}
+
+h1{
+    color: rgb(250, 250, 250);
+}
+
+.title {
+    text-align: center; 
+    padding: 20px;
+    font-size: 25px;
+}
+
+.img {
+    position: relative;
+    width: 150px;
+    left: 100;
+    margin-left: -75px;
+}
